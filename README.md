@@ -11,7 +11,8 @@ What I did so far:
 + added progress bar while generating uml
 + added following configuration options:
 
---umlClassicHierarchy               none,before,behind
+```
+ --umlClassicHierarchy               none,before,behind
  --umlComplete                       none,simple,detail
  --umlFormat                         png,svg
  --umlHierarchy                      none,simple,detail,alldetail
@@ -23,6 +24,7 @@ What I did so far:
  --umlTag                            true|false
  --umlThreads                        [1,∞)
  --umlVisibilityIcons                none,ascii,graphic
+ ```
 
 + added lots of documentation for lots of changes
 
