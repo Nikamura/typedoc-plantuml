@@ -35,6 +35,6 @@
     "rimraf": "^2.5.1"
   },
   "peerDependencies": {
-    "typedoc": "^0.4.1"
+    "typedoc": "^0.12.0"
   }
 }
