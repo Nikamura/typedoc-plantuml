@@ -29,8 +29,7 @@
     "node-plantuml": "^0.8.1",
     "npm-check-updates": "^3.1.8",
     "pako": "^1.0.10",
-    "progress": "^2.0.3",
-    "typedoc": "^0.14.2"
+    "progress": "^2.0.3"
   },
   "devDependencies": {
     "dir-compare": "1.7.2",
