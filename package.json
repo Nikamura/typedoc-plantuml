@@ -26,15 +26,17 @@
     "typedocplugin"
   ],
   "dependencies": {
-    "node-plantuml": "^0.7.0",
-    "pako": "^1.0.0",
-    "progress": "^2.0.0"
+    "node-plantuml": "^0.8.1",
+    "npm-check-updates": "^3.1.8",
+    "pako": "^1.0.10",
+    "progress": "^2.0.3",
+    "typedoc": "^0.14.2"
   },
   "devDependencies": {
-    "dir-compare": "1.4.0",
-    "rimraf": "^2.5.1"
+    "dir-compare": "1.7.2",
+    "rimraf": "^2.6.3"
   },
   "peerDependencies": {
-    "typedoc": "^0.12.0"
+    "typedoc": "^0.14.2"
   }
 }
